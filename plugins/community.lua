@@ -10,7 +10,6 @@ return {
   { import = "astrocommunity.motion.leap-nvim" },
   { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.json" },
