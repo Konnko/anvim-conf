@@ -18,5 +18,4 @@ return {
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.editing-support.telescope-undo-nvim" },
   { import = "astrocommunity.editing-support.wildfire-nvim" },
-  { import = "astrocommunity.editing-support.cutlass-nvim" },
 }
